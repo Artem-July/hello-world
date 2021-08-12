@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+My name is Artem. I like Python and Java
